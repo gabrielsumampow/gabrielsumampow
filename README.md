@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel Sumampow</h1>
 <h3 align="center">A passionate Full-Stack Developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **Gravito Microservices**
+- 🏢 I’m currently working at **Angsana Asmara** as a **Full-Stack Web Developer**
+
+- 🔭 Current Project **Gravito Microservices**
 
 - 🌱 I’m currently learning **React.js, React Native, Next.js**
 
