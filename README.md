@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Gabriel Sumampow</h1>
-<h3 align="center">A passionate Full-Stack Developer from Indonesia who codes by day and dreams in binary by night 🌙</h3>
+<h3 align="center">A passionate Full-Stack Developer from Indonesia who codes by day, CodeIgniter 3 archaeologist by night 🌙</h3>
+<h4 align="center">If CI4 is the future, I live in the glorious past.</h4>
 
 - 🏢 I’m currently working at **Angsana Asmara** as a **Full-Stack Web Developer** (aka the guy who makes the internet work)
 
 - 🔭 Current Project **Gravito Microservices** (because why not make things more complicated?)
 
 - 🌱 I’m currently learning **React.js, React Native, Next.js** (and how to stay sane while doing it)
+  
+- 💻 Tech I’m fluent in:
+  - **PHP** (my first love ❤️)
+  - **JavaScript** (my second love 💛)
+  - **CodeIgniter 3** (the framework that keeps me employed 🛠️)
+  - **React.js** (the new kid on the block I’m trying to befriend 🤝)
 
 - 📫 How to reach me **gnsbusiness16@gmail.com** (I promise I don't bite... much)
 
@@ -43,5 +50,6 @@
 
 <h3 align="left">Fun Fact:</h3>
 <p align="left">
-  - I once tried to automate my morning coffee routine with a Raspberry Pi. It didn't end well. ☕🤖
+  - I can debug PHP in my sleep, but React.js still keeps me awake at night. 😴
+  - I once wrote a CodeIgniter helper to automate my morning coffee routine. It worked... kind of. ☕🤖
 </p>
