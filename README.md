@@ -50,6 +50,5 @@
 
 <h3 align="left">Fun Fact:</h3>
 <p align="left">
-  - I can debug PHP in my sleep, but React.js still keeps me awake at night. 😴
   - I once wrote a CodeIgniter helper to automate my morning coffee routine. It worked... kind of. ☕🤖
 </p>
