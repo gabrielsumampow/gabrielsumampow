@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Sumampow</h1>
-<h3 align="center">A passionate Full-Stack Developer from Indonesia who codes by day, CodeIgniter 3 archaeologist by night 🌙</h3>
-<h4 align="center">If CI4 is the future, I live in the glorious past.</h4>
+<h3 align="center">A passionate Full-Stack Developer from Indonesia who codes by day, CI 3 necromancer by night ☠️</h3>
+<h4 align="center">CI4 is the prophecy, but I'm still meditating with my CI3 scrolls.</h4>
 
 - 🏢 I’m currently working at **Angsana Asmara** as a **Full-Stack Web Developer** (aka the guy who makes the internet work)
 
