@@ -47,7 +47,7 @@ Full-Stack Web Developer at **Angsana Asmara**, specializing in e-commerce solut
 
 **Tools & Cloud**
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,gcp" />
+  <img src="https://skillicons.dev/icons?i=postman,gcp,figma" />
 </p>
 
 **Additional Skills**
