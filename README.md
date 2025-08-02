@@ -1,54 +1,122 @@
-<h1 align="center">Hi 👋, I'm Gabriel Sumampow</h1>
-<h3 align="center">A passionate Full-Stack Developer from Indonesia who codes by day, CI 3 necromancer by night ☠️</h3>
-<h4 align="center">CI4 is the prophecy, but I'm still meditating with my CI3 scrolls.</h4>
+# Gabriel Sumampow
 
-- 🏢 I’m currently working at **Angsana Asmara** as a **Full-Stack Web Developer** (aka the guy who makes the internet work)
-
-- 🔭 Current Project **Gravito Microservices** (because why not make things more complicated?)
-
-- 🌱 I’m currently learning **React.js, React Native, Next.js** (and how to stay sane while doing it)
+<div align="center">
   
-- 💻 Tech I’m fluent in:
-  - **PHP** (my first love ❤️)
-  - **JavaScript** (my second love 💛)
-  - **CodeIgniter 3** (the framework that keeps me employed 🛠️)
-  - **React.js** (the new kid on the block I’m trying to befriend 🤝)
+  <h2 style="color: #6366F1; font-weight: 500; margin-bottom: 8px;">Passionate Full-Stack Developer</h2>
+  <p style="color: #7D8590; font-size: 16px; margin-bottom: 24px;">
+    E-commerce Solutions • Full-Stack Developer • Indonesia 🇮🇩
+  </p>
+  
+  <p align="center" style="margin: 24px 0;">
+    <a href="https://www.linkedin.com/in/gabriel-sumampow/" style="margin: 0 4px;">
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="32"/>
+    </a>
+    <a href="mailto:gnsbusiness16@gmail.com" style="margin: 0 4px;">
+      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" height="32"/>
+    </a>
+    <a href="https://instagram.com/gabrielsumampow" style="margin: 0 4px;">
+      <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" height="32"/>
+    </a>
+  </p>
+</div>
 
-- 📫 How to reach me **gnsbusiness16@gmail.com** (I promise I don't bite... much)
+<br>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gabriel-sumampow/](https://www.linkedin.com/in/gabriel-sumampow/) (Spoiler: It's mostly me staring at a screen)
+## About Me
 
-- ⚡ Fun fact **I think I am funny** (and I also think I can fix your Wi-Fi)
+Full-Stack Web Developer at **Angsana Asmara**, specializing in e-commerce solutions and modern web development. Currently architecting scalable systems while expanding expertise in React ecosystem.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/gabrielsumampow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielsumampow" height="30" width="40" /></a>
+**Current Focus:** Leading Gravito Microservices project • Mastering React.js, Next.js & React Native
+
+<br>
+
+## Tech Stack
+
+<div align="center">
+
+**Core Technologies**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="48" height="48" alt="CodeIgniter"/>
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+**Modern Stack**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,firebase" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielsumampow&show_icons=true&locale=en&layout=compact" alt="gabrielsumampow" /></p>
-
-<h3 align="left">Fun Fact:</h3>
-<p align="left">
-  - I once wrote a CodeIgniter helper to automate my morning coffee routine. It worked... kind of. ☕🤖
+**Tools & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,gcp" />
 </p>
+
+**Additional Skills**
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,python,java,kotlin" />
+</p>
+
+</div>
+
+<br>
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielsumampow&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=7D8590&icon_color=6366F1"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsumampow&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=7D8590"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsumampow&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=6366F1&fire=6366F1&currStreakLabel=F0F6FC&sideLabels=F0F6FC&currStreakNum=F0F6FC&sideNums=7D8590&dates=7D8590" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+## Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gabrielsumampow&theme=darkhub&row=1&column=6&margin-h=8&margin-w=8&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
+</div>
+
+<br>
+
+## Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielsumampow&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+<br>
+
+## Professional Highlights
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Current Role</h3>
+      <ul>
+        <li>Full-Stack Developer at Angsana Asmara</li>
+        <li>E-commerce platform architecture</li>
+        <li>CodeIgniter 3 ecosystem management</li>
+        <li>Team technical leadership</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Development Focus</h3>
+      <ul>
+        <li>React.js & Next.js advancement</li>
+        <li>React Native mobile development</li>
+        <li>Microservices architecture</li>
+        <li>Modern JavaScript patterns</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <sub>💡 Open for collaboration and technical discussions</sub>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=gabrielsumampow&style=flat&color=6366F1" alt="Profile Views"/>
+</div>
