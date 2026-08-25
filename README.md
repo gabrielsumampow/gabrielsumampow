@@ -57,29 +57,27 @@ CodeIgniter, REST APIs, Redis, Alpine.js, Firebase, GCP, Java, Kotlin, Python, a
 
 ---
 
-## GitHub
+## GitHub Activity
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/overview.light.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gabrielsumampow/gabrielsumampow/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gabrielsumampow/gabrielsumampow/output/github-snake.svg"
+  />
   <img
-    alt="GitHub profile overview for Gabriel Sumampow"
-    src="./assets/overview.light.svg"
+    alt="Gabriel Sumampow's GitHub contribution snake"
+    src="https://raw.githubusercontent.com/gabrielsumampow/gabrielsumampow/output/github-snake.svg"
     width="100%"
   />
 </picture>
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img
-    alt="Gabriel Sumampow contribution snake"
-    src="./assets/github-snake.svg"
-    width="100%"
-  />
-</picture>
+</div>
 
 ---
 
